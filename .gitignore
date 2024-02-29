@@ -1,0 +1,6 @@
+# Build Artifacts
+target/
+
+# Editors
+*~
+.*#
